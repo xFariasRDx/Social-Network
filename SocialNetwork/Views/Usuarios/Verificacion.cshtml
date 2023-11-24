@@ -1,0 +1,39 @@
+﻿@{
+    ViewData["Title"] = "Confirm Email";
+}
+
+<div class="row">
+
+    <div class="col-6 offset-3">
+        <div class="card">
+
+            <center>
+                <div class="card-header bg-secondary text-light">
+                    <h4>Verificacion de correo electronico</h4>
+                </div>
+            </center>
+
+            <center>
+
+                <div class="card-body">
+                    <form asp-controller="Usuarios" asp-action="Verificacion">
+
+                        <p>⬇️</p>
+
+                    </form>
+                </div>
+
+                <div class="card-footer">
+                    
+                    <a asp-controller="Publicaciones" asp-action="Index" class="btn btn-primary">Verificate</a>
+                
+                </div>
+
+            </center>
+
+
+        </div>
+
+    </div>
+
+</div>

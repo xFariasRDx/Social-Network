@@ -1,0 +1,44 @@
+﻿@using SocialNetwork.Core.Application.ViewModels.Publicaciones;
+@model SavePublicacionesViewModel;
+@{
+    ViewData["Title"] = "Delete Publication";
+}
+
+<div class="row">
+
+    <div class="col-6 offset-3">
+        <div class="card">
+
+            <center>
+                <div class="card-header bg-secondary text-light">
+                    <h4>Surely you want to remove this one?</h4>
+                </div>
+            </center>
+
+            <center>
+
+                <div class="card-body">
+                    <form method="post" asp-controller="Publicaciones" asp-action="DeletePost">
+
+                        <input type="hidden" asp-for="Id" />
+
+
+                        <div class="card-footer">
+
+                            <button type="submit" class="btn btn-primary">Eliminar</button>
+                            <a asp-controller="publicaciones" asp-action="Index" class="btn btn-danger">Cancelar</a>
+
+                        </div>
+
+                    </form>
+
+                </div>
+
+            </center>
+
+
+        </div>
+
+    </div>
+
+</div>

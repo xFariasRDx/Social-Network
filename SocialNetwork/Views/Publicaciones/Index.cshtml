@@ -1,0 +1,69 @@
+﻿@using SocialNetwork.Core.Application.ViewModels.Publicaciones;
+@model List<PublicacionesViewModel>
+@{
+    ViewData["Title"] = "Home";
+}
+
+@*----------TWITTEAR----------*@
+
+<div class="col-6 text-center offset-3">
+
+    <form method="post" enctype="multipart/form-data" asp-controller="Publicaciones" asp-action="Index">
+
+        <div class="card mb-4 col justify-content-center">
+
+            <div class="card-bodyform-group col-12">
+
+                <textarea type="text" name="Informacion" class="form-control" rows="5" cols="2" placeholder="What on your mind"></textarea>
+                <label name="Img_Upload" class="form-label"></label>
+                <input type="file" name="Img_Upload" class="form-control form-control-lg" />
+            </div>
+            
+            
+            @*----------Botones----------*@
+            <div class="card-footer">
+
+                <button type="submit" class="btn btn-primary">Twittear</button>
+            
+            </div>
+                
+        </div>
+
+    </form>
+</div>
+
+
+@*----------POSTEDS----------*@
+
+<center class="col-6 text-center offset-3">
+
+    @foreach (PublicacionesViewModel item in Model.OrderByDescending(p => p.Id))
+    {   
+        <div class="card mt-3 out">
+            <div class="card-header">
+                <img class="rounded" height="50" width="50" src=" @item.Img_Miniatura" alt="" />
+                <p><td>@item.Username</td></p>
+            </div>
+
+            <div class="card-body">
+                <div>
+                    
+                    @item.Informacion
+
+                </div>
+                
+                <img class="img-fluid mt-3" width="445" src=" @item.Picture_Caption" alt="" />
+
+            </div>
+            <div class="card-footer mt-3">
+
+                <a asp-controller="Comentarios" asp-action="Comentar" asp-route-Id="@item.Id" class=" btn btn-outline-primary"><i class="material-icons">💭</i>Comentar</a>
+                <a asp-controller="Publicaciones" asp-action="Update" asp-route-Id="@item.Id" class=" btn btn-outline-success"><i class="material-icons">✏️</i> Editar</a>
+                <a asp-controller="Publicaciones" asp-action="Delete" asp-route-Id="@item.Id" class=" btn btn-outline-danger"><i class="material-icons">🗑️</i> Eliminar</a>
+
+            </div>
+
+        </div>
+    }
+
+</center>

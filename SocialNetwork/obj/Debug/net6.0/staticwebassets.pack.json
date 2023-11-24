@@ -1,0 +1,373 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SocialNetwork.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SocialNetwork.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\Images\\Publicaciones\\1005\\77aa43cf-d76f-4d29-8084-d4e18f4e14a7.jpg",
+      "PackagePath": "staticwebassets\\Images\\Publicaciones\\1005\\77aa43cf-d76f-4d29-8084-d4e18f4e14a7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\Images\\Publicaciones\\1006\\4900eafd-3ed2-4c7b-8d9e-74a17a9bf6e9.jpg",
+      "PackagePath": "staticwebassets\\Images\\Publicaciones\\1006\\4900eafd-3ed2-4c7b-8d9e-74a17a9bf6e9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\Images\\Publicaciones\\1007\\6949809b-f6fd-4b0c-b2ce-38c4bcbd0235.png",
+      "PackagePath": "staticwebassets\\Images\\Publicaciones\\1007\\6949809b-f6fd-4b0c-b2ce-38c4bcbd0235.png"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\Images\\Publicaciones\\1\\01c482a5-95ba-4b8c-acd7-0be90bff4b5b.jpg",
+      "PackagePath": "staticwebassets\\Images\\Publicaciones\\1\\01c482a5-95ba-4b8c-acd7-0be90bff4b5b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\Images\\Publicaciones\\1\\85c51d6c-242f-4ec5-b3d3-aa7586978431.jpg",
+      "PackagePath": "staticwebassets\\Images\\Publicaciones\\1\\85c51d6c-242f-4ec5-b3d3-aa7586978431.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\Images\\Publicaciones\\2\\bc189696-24f3-4858-9624-c8467cfaaab9.jpg",
+      "PackagePath": "staticwebassets\\Images\\Publicaciones\\2\\bc189696-24f3-4858-9624-c8467cfaaab9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\Images\\Publicaciones\\2\\db7c43dd-1fb2-4db9-b8b9-bdb59cd4eb84.jpg",
+      "PackagePath": "staticwebassets\\Images\\Publicaciones\\2\\db7c43dd-1fb2-4db9-b8b9-bdb59cd4eb84.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\Images\\Publicaciones\\3\\32b23e84-98a8-4978-8eec-e4ad69d75a5a.jpg",
+      "PackagePath": "staticwebassets\\Images\\Publicaciones\\3\\32b23e84-98a8-4978-8eec-e4ad69d75a5a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\Images\\Publicaciones\\3\\9418c428-c28c-4723-9932-52391c200d8c.jpg",
+      "PackagePath": "staticwebassets\\Images\\Publicaciones\\3\\9418c428-c28c-4723-9932-52391c200d8c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\Images\\Publicaciones\\4\\178372e1-7172-4008-a80c-2c5a30ea2a1a.png",
+      "PackagePath": "staticwebassets\\Images\\Publicaciones\\4\\178372e1-7172-4008-a80c-2c5a30ea2a1a.png"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\Images\\Publicaciones\\4\\caea0536-539a-4f78-9ff3-42696c54fdff.jpg",
+      "PackagePath": "staticwebassets\\Images\\Publicaciones\\4\\caea0536-539a-4f78-9ff3-42696c54fdff.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\Images\\Publicaciones\\5\\a354abe2-fb57-47e7-a13d-0b8027aef2dd.jpg",
+      "PackagePath": "staticwebassets\\Images\\Publicaciones\\5\\a354abe2-fb57-47e7-a13d-0b8027aef2dd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\Images\\Publicaciones\\6\\9ed7b24c-fc97-4f3c-b862-170525668503.jpg",
+      "PackagePath": "staticwebassets\\Images\\Publicaciones\\6\\9ed7b24c-fc97-4f3c-b862-170525668503.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\Images\\Publicaciones\\7\\d395242a-db29-43e1-975b-fa680a88866c.jpg",
+      "PackagePath": "staticwebassets\\Images\\Publicaciones\\7\\d395242a-db29-43e1-975b-fa680a88866c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\Images\\Publicaciones\\8\\2424d95e-0c02-4ea3-8d84-7509df433422.jpg",
+      "PackagePath": "staticwebassets\\Images\\Publicaciones\\8\\2424d95e-0c02-4ea3-8d84-7509df433422.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\Images\\Usuarios\\0\\126c7eb7-dd3e-410a-abcf-c49c9ff5fdf3.jpg",
+      "PackagePath": "staticwebassets\\Images\\Usuarios\\0\\126c7eb7-dd3e-410a-abcf-c49c9ff5fdf3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\Images\\Usuarios\\0\\4ce196da-efac-4e59-94a2-34671b5aaec2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Usuarios\\0\\4ce196da-efac-4e59-94a2-34671b5aaec2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\Images\\Usuarios\\0\\4d56c5d8-aae9-4efe-b394-465005782968.jpg",
+      "PackagePath": "staticwebassets\\Images\\Usuarios\\0\\4d56c5d8-aae9-4efe-b394-465005782968.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\Images\\Usuarios\\1002\\c1f2d7cd-90c3-4ea5-b3fe-96b30c909d0b.jpg",
+      "PackagePath": "staticwebassets\\Images\\Usuarios\\1002\\c1f2d7cd-90c3-4ea5-b3fe-96b30c909d0b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\Images\\Usuarios\\1\\61378d85-3696-4d5a-ac6d-49cfdbcaa528.jpg",
+      "PackagePath": "staticwebassets\\Images\\Usuarios\\1\\61378d85-3696-4d5a-ac6d-49cfdbcaa528.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\Images\\Usuarios\\2002\\e3ce0c63-717f-4fbf-81fb-dd79059f7984.jpg",
+      "PackagePath": "staticwebassets\\Images\\Usuarios\\2002\\e3ce0c63-717f-4fbf-81fb-dd79059f7984.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\Images\\Usuarios\\2003\\5a5e0a96-e4e1-4ddc-b57b-1c3a1196d8bb.jpg",
+      "PackagePath": "staticwebassets\\Images\\Usuarios\\2003\\5a5e0a96-e4e1-4ddc-b57b-1c3a1196d8bb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\Images\\Usuarios\\2004\\1feac6fd-b74c-4ccb-b767-09d1806d9149.jpg",
+      "PackagePath": "staticwebassets\\Images\\Usuarios\\2004\\1feac6fd-b74c-4ccb-b767-09d1806d9149.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\Images\\Usuarios\\2005\\076b4baa-6f46-4394-aaa0-8e94a7310add.jpg",
+      "PackagePath": "staticwebassets\\Images\\Usuarios\\2005\\076b4baa-6f46-4394-aaa0-8e94a7310add.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\Images\\Usuarios\\2006\\95b88d0b-9088-409e-a963-a24036c125ea.jpg",
+      "PackagePath": "staticwebassets\\Images\\Usuarios\\2006\\95b88d0b-9088-409e-a963-a24036c125ea.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\Images\\Usuarios\\2\\77718dd3-420e-44b1-b461-3273ef3ace55.jpg",
+      "PackagePath": "staticwebassets\\Images\\Usuarios\\2\\77718dd3-420e-44b1-b461-3273ef3ace55.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\Images\\Usuarios\\8\\44647984-c90f-41d4-9995-374b754b84fe.jpg",
+      "PackagePath": "staticwebassets\\Images\\Usuarios\\8\\44647984-c90f-41d4-9995-374b754b84fe.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Miguel Farias\\source\\repos\\SocialNetwork\\SocialNetwork\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.SocialNetwork.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.SocialNetwork.props",
+      "PackagePath": "build\\SocialNetwork.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.SocialNetwork.props",
+      "PackagePath": "buildMultiTargeting\\SocialNetwork.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.SocialNetwork.props",
+      "PackagePath": "buildTransitive\\SocialNetwork.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

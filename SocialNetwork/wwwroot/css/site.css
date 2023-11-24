@@ -1,0 +1,27 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+.mymargin{
+    margin-left: 1690px;
+}
+.mymargin2 {
+    margin-left: 1425px;
+}
+.facebook {
+    width: 50px;
+}

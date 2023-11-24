@@ -1,0 +1,33 @@
+﻿@using SocialNetwork.Core.Application.ViewModels.Amigos;
+@model List<SaveAmigosViewModel>;
+
+@{
+    ViewData["Title"] = "Friends";
+}
+         
+@*@foreach(SaveAmigosViewModel item in Model)*@
+@*//{*@
+    
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6 col-md-6  mb-3">
+                <div class="card">
+                    <div class="card-body">
+
+                        <!-- Profile picture and short information -->
+                        <div class="d-flex align-items-center position-relative pb-3">
+                            <div class="flex-shrink-0">
+                                <img class="img-md rounded-circle" src="https://bootdey.com/img/Content/avatar/avatar1.png" alt="Profile Picture" loading="lazy">
+                            </div>
+                            <div class="flex-grow-1 ms-3">
+                                <a href="#" class="h5 stretched-link btn-link">Stephen Tran</a>
+                                <p class="text-muted m-0">Marketing manager</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+@*}*@
